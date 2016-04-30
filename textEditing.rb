@@ -3,9 +3,9 @@
   i_5=(n%5==0)
   case
       when i_3&&i_5
-        puts 'bit'
+        puts 'BitmakerHQ'
       when i_3
-        puts 'bitmaker'
+        puts 'Bitmaker'
       when i_5
         puts 'HQ'
       else
